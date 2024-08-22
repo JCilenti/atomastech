@@ -58,12 +58,14 @@ neofetch = [
 ];
 
 blog = [
-    "<br>",
-    ">Here are some of my tech blog posts<",
-    "The IPTables Firewall...",
-    "The Gameover Zeus Malware...",
-    "Shodan: A Brief Summary of an Effective...",
-    "<br>"
+  "<br>",
+  "Here are some of my most recent blog posts. Select a number to open one! ",
+  '<span class="command">Blog Post 1</span>         IPTables Firewall',
+  '<span class="command">Blog Post 2</span>         Gameover Zeus Malware',
+  '<span class="command">Blog Post 3</span>         About Post 3',
+  '<span class="command">Blog Post 4</span>         About Post 4',
+  '<span class="command">Blog Post n</span>         About Post n',
+  "<br>",
 ];
 
 projects = [
