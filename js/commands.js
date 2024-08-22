@@ -60,6 +60,7 @@ neofetch = [
 blog = [
   "<br>",
   "Here are some of my most recent blog posts. Select a number to open one! ",
+  '\n',
   '<span class="command">Blog Post 1</span>         IPTables Firewall',
   '<span class="command">Blog Post 2</span>         Gameover Zeus Malware',
   '<span class="command">Blog Post 3</span>         About Post 3',
