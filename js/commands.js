@@ -90,7 +90,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">AtomasTech (AT) Not A Corporation. All knights reserved.</span>',
+  '<span class="index">AtomasTech (AT) Not A Corporation. All Rights Reserved.</span>',
   "█████╗ ████████╗ ██████╗ ███╗   ███╗ █████╗ ███████╗    ████████╗███████╗ ██████╗██╗  ██╗",
   "██╔══██╗╚══██╔══╝██╔═══██╗████╗ ████║██╔══██╗██╔════╝    ╚══██╔══╝██╔════╝██╔════╝██║  ██║",
   "███████║   ██║   ██║   ██║██╔████╔██║███████║███████╗       ██║   █████╗  ██║     ███████║",
